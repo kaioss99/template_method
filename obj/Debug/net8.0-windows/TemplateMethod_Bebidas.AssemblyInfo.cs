@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TemplateMethod_Bebidas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+327e939264a9a82a7d0028ac5a69201ea3dfafd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("TemplateMethod_Bebidas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TemplateMethod_Bebidas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
